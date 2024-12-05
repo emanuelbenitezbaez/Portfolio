@@ -123,7 +123,6 @@ This project can be deployed to various platforms:
 
 ## 👨‍💻 Author
 
-Your Name
 
 - LinkedIn: https://www.linkedin.com/in/emanuel-benitez-baez-26464314a/
 
