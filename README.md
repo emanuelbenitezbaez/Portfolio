@@ -133,7 +133,4 @@ Your Name
 - Tailwind CSS
 - EmailJS
 - Hero Icons
-# Portfolio
-# emanuel-benitez-baez
-# Portfolio
-# Portfolio
+
